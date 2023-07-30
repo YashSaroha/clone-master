@@ -20,9 +20,9 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    height: 70px;
-    padding: 0 7vw;
-    background-color: royalblue;
+    height: 7vh;
+    padding: 3vw 7vw;
+    background-color: #19191A;
     color: white;
 }
 
@@ -38,7 +38,7 @@ nav h1 {
 .navRow a {
     font-size: 1.5vw;
     text-decoration: none;
-    color: rgb(235, 235, 235);
+    color: rgb(235, 235, 235);  
 }
 .navRow a:hover {
     border-bottom: 2px solid rgb(235, 235, 235);
